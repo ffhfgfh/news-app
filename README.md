@@ -1,4 +1,4 @@
-## News App Flutter [![GitHub stars](https://img.shields.io/github/stars/j-j-gajjar/FLUTTER_NewsApp?style=social)](https://github.com/login?return_to=%2Fj-j-gajjar%FLUTTER_NewsApp) ![GitHub forks](https://img.shields.io/github/forks/j-j-gajjar/FLUTTER_NewsApp?style=social) 
+## News App Flutter 
 
 News App Flutter is a simple news app built with Flutter that displays top news from newsapi.org. The app includes a home page that displays top news, and a category page where users can choose from a range of news categories. The app also features a smooth and intuitive design with gestures and a seamless experience on both Android and iOS platforms.
 
@@ -12,7 +12,7 @@ News App Flutter is a simple news app built with Flutter that displays top news 
 >  - freezed
 >  - json_serializable
 
-> For more details and to follow the development progress, visit the [GitHub repository](https://github.com/j-j-gajjar/flutter_news_bloc). Contributions to this project are welcome! Feel free to fork the repository and submit pull requests.
+ Contributions to this project are welcome! Feel free to fork the repository and submit pull requests.
 
 
  ## Todos
